@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44478823-5b1e-4a0e-8292-77db0c74ae99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/aulas/A13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex055.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,8 +50,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex045">
-    <configuration name="ex036" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex052">
+    <configuration name="ex050" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex036.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex050.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex037" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex051" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex037.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex051.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex039" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex052" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex039.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex052.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex044" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex054" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex044.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex054.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex045" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex055" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex045.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex055.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex045" />
-        <item itemvalue="Python.ex044" />
-        <item itemvalue="Python.ex039" />
-        <item itemvalue="Python.ex037" />
-        <item itemvalue="Python.ex036" />
+        <item itemvalue="Python.ex052" />
+        <item itemvalue="Python.ex055" />
+        <item itemvalue="Python.ex054" />
+        <item itemvalue="Python.ex051" />
+        <item itemvalue="Python.ex050" />
       </list>
     </recent_temporary>
   </component>
