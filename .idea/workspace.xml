@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44478823-5b1e-4a0e-8292-77db0c74ae99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo2/exercicios/ex059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/aulas/A16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex077.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,24 +30,18 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.ex059">
-    <configuration name="ex052" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex077">
+    <configuration name="ex073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +49,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo2/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo3/exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex052.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex073.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex055" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo2/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo3/exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex055.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex074.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex057" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo2/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo3/exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex057.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex075.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex058" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo2/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo3/exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex058.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex076.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex059" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex077" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo2/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo3/exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo2/exercicios/ex059.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex077.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,13 +148,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex059" />
-        <item itemvalue="Python.ex058" />
-        <item itemvalue="Python.ex057" />
-        <item itemvalue="Python.ex052" />
-        <item itemvalue="Python.ex055" />
+        <item itemvalue="Python.ex077" />
+        <item itemvalue="Python.ex076" />
+        <item itemvalue="Python.ex075" />
+        <item itemvalue="Python.ex074" />
+        <item itemvalue="Python.ex073" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -187,5 +196,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578002977967">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1578002977967" />
+    <state width="659" height="113" key="GridCell.Tab.0.bottom" timestamp="1578023677496">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="659" height="113" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578023677496" />
+    <state width="659" height="113" key="GridCell.Tab.0.center" timestamp="1578023677495">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="659" height="113" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578023677495" />
+    <state width="659" height="113" key="GridCell.Tab.0.left" timestamp="1578023677495">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="659" height="113" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578023677495" />
+    <state width="659" height="113" key="GridCell.Tab.0.right" timestamp="1578023677495">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="659" height="113" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578023677495" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1578002732338">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578002732338" />
   </component>
 </project>
