@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44478823-5b1e-4a0e-8292-77db0c74ae99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mundo3/aulas/A16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/aulas/A17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo3/exercicios/ex083.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo3/exercicios/ex076.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo3/exercicios/ex076.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +41,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.ex077">
-    <configuration name="ex073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex082">
+    <configuration name="ex078" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex073.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex078.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex079" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex074.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex079.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex080" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex075.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex080.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex081" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex076.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex081.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex077" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex082" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex077.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo3/exercicios/ex082.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex077" />
-        <item itemvalue="Python.ex076" />
-        <item itemvalue="Python.ex075" />
-        <item itemvalue="Python.ex074" />
-        <item itemvalue="Python.ex073" />
+        <item itemvalue="Python.ex082" />
+        <item itemvalue="Python.ex081" />
+        <item itemvalue="Python.ex080" />
+        <item itemvalue="Python.ex079" />
+        <item itemvalue="Python.ex078" />
       </list>
     </recent_temporary>
   </component>
@@ -202,25 +203,29 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1578002977967" />
-    <state width="659" height="113" key="GridCell.Tab.0.bottom" timestamp="1578023677496">
+    <state width="661" height="170" key="GridCell.Tab.0.bottom" timestamp="1578104993298">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="113" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578023677496" />
-    <state width="659" height="113" key="GridCell.Tab.0.center" timestamp="1578023677495">
+    <state width="661" height="170" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578104993298" />
+    <state width="661" height="170" key="GridCell.Tab.0.center" timestamp="1578104993298">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="113" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578023677495" />
-    <state width="659" height="113" key="GridCell.Tab.0.left" timestamp="1578023677495">
+    <state width="661" height="170" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578104993298" />
+    <state width="661" height="170" key="GridCell.Tab.0.left" timestamp="1578104993297">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="113" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578023677495" />
-    <state width="659" height="113" key="GridCell.Tab.0.right" timestamp="1578023677495">
+    <state width="661" height="170" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578104993297" />
+    <state width="661" height="170" key="GridCell.Tab.0.right" timestamp="1578104993298">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="659" height="113" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578023677495" />
-    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1578002732338">
+    <state width="661" height="170" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578104993298" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1578096385664">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578002732338" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578096385664" />
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578104638248">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1578104638248" />
   </component>
 </project>
