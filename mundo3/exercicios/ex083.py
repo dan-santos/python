@@ -1,15 +1,16 @@
 texto = str(input('Digite um texto entre parênteses: '))
-
-if '(' in texto:
-    if ')' in texto:
-        abre = texto.count('(')
-        fecha = texto.count(')')
-        if abre == fecha:
-
+lista = []
+for char in texto:
+    if char == '(':
+        lista.append(char)
+    elif char == ')':
+        if len(lista) > 0:
+            lista.pop()
         else:
-            print('Ta errado!')
-    else:
-        print('Ta errado!')
-else:
-    print('Ta errado!')
+            lista.append(char)
+            break
 
+if len(lista) == 0:
+    print('Sua expressão está correta')
+else:
+    print('Sua expressão está incorreta')
