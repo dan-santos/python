@@ -1,18 +1,12 @@
-aluno = list()
-notas = list()
-media = 0
-
+reg = list()
 while True:
-    aluno.append(str(input('Nome: ')))
-    for i in range(2):
-        notas.append(float(input(f'{i+1}ª Nota: ')))
-    media = (notas[0] + notas[1])/2
-    aluno.append(notas[:])
-    aluno.append(media)
-
-    notas.clear()
+    aluno = str(input('Nome: '))
+    nota1 = float(input('1ª Nota: '))
+    nota2 = float(input('2ª Nota: '))
+    media = (nota1 + nota2)/2
+    reg.append([aluno, [nota1, nota2], media])
     opt = str(input("Deseja cadastrar outro aluno? [Y/N]"))
-    if 'n' in opt or 'N' in opt:
+    if opt in 'Nn':
         break
-
-print(aluno)
+for i in reg:
+    print(i)

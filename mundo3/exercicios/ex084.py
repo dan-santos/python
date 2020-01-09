@@ -2,26 +2,34 @@ galera = list()
 pessoa = list()
 maisPesado = list()
 maisLeve = list()
-pesoMaior = 0
-pesoMenor = 1000000
+menorPeso = maiorPeso = 0
 while True:
     pessoa.append(str(input('Nome: ')))
     pessoa.append(float(input('Peso: ')))
-    if pessoa[1] >= pesoMaior:
-        if pessoa[1] != pesoMaior and len(maisPesado) > 0:
-            maisPesado.pop()
-        pesoMaior = pessoa[1]
+    galera.append(pessoa)
+    if len(maisPesado) == 0:
         maisPesado.append(pessoa[0])
-    if pessoa[1] <= pesoMenor:
-        if pessoa[1] != pesoMenor and len(maisLeve) > 0:
-            maisLeve.pop()
-        pesoMenor = pessoa[1]
         maisLeve.append(pessoa[0])
-    galera.append(pessoa[:])
+        maiorPeso = menorPeso = pessoa[1]
+    else:
+        if pessoa[1] > maiorPeso:
+            maisPesado.clear()
+            maisPesado.append(pessoa[0])
+            maiorPeso = pessoa[1]
+        elif pessoa[1] == maiorPeso:
+            maisPesado.append(pessoa[0])
+
+        if pessoa[1] < menorPeso:
+            maisLeve.clear()
+            maisLeve.append(pessoa[0])
+            menorPeso = pessoa[1]
+        elif pessoa[1] == menorPeso:
+            maisLeve.append(pessoa[0])
     pessoa.clear()
-    opt = str(input('Quer inserir mais uma pessoa? [Y/N]'))
-    if 'N' in opt or 'n' in opt:
+    resposta = str(input('Deseja inserir mais pessoas? [Y/N]'))
+    if resposta in 'Nn':
         break
-print(f'{len(galera)} pessoas cadastradas')
-print(f'O(s) mais pesado(s) ({pesoMaior}) é/são {maisPesado}')
-print(f'O(s) mais leve(s) ({pesoMenor}) é/são {maisLeve}')
+
+print(len(galera), ' pessoas cadastradas')
+print(f'As pessoas mais pesadas são {maisPesado} com {maiorPeso}Kg')
+print(f'As pessoas mais leves são {maisLeve} com {menorPeso}Kg')
