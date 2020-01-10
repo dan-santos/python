@@ -1,0 +1,1 @@
+help(str(input('Digite o comando que você deseja obter ajuda: ')))
